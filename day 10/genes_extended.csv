@@ -1,0 +1,7 @@
+gene,expression,pathway
+BRCA1,45,DNA_repair
+TP53,120,Cell_cycle
+MTOR,85,Growth
+MYC,150,Growth
+EGFR,60,Signaling
+CDK2,95,Cell_cycle
